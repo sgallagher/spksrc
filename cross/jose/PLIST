@@ -1,0 +1,4 @@
+bin:bin/jose
+lnk:lib/libjose.so
+lnk:lib/libjose.so.0
+lib:lib/libjose.so.0.0.0

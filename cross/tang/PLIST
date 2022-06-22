@@ -1,0 +1,7 @@
+bin:bin/tang-show-keys
+rsc:lib/systemd/system/tangd.socket
+rsc:lib/systemd/system/tangd@.service
+bin:libexec/tangd
+bin:libexec/tangd-keygen
+bin:libexec/tangd-rotate-keys
+rsc:share/licenses/tang/COPYING
